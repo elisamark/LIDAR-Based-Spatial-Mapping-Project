@@ -120,3 +120,4 @@ function parsed_data = parse(n)
     parsed_data = [check_bit, distance, angle, depth, spad_num];
 
 end
+
