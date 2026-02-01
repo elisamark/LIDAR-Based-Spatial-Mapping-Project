@@ -1,9 +1,7 @@
 %{
     Elisabeth Mark
-    400522900 - marke3
     COMPENG 2DX3
     Project Deliverable 2
-    Submitted: March 31, 2025
 %}
 
 % clearing workspace
@@ -120,4 +118,5 @@ function parsed_data = parse(n)
     
     % Return the parsed data as a matrix
     parsed_data = [check_bit, distance, angle, depth, spad_num];
+
 end
